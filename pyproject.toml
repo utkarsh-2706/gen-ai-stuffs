@@ -8,5 +8,6 @@ dependencies = [
     "requests>=2.32.5",
     "crewai",
     "langchain_google_genai",
-    "load_dotenv"
+    "python-dotenv",
+    "crewai_tools"
 ]
