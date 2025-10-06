@@ -9,5 +9,10 @@ dependencies = [
     "crewai",
     "langchain_google_genai",
     "python-dotenv",
-    "crewai_tools"
+    "crewai_tools",
+    "langchain",
+    "langgraph",
+    "langchain_groq",
+    "networkx",
+    "matplotlib",
 ]
